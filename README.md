@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @Louisrivera5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Automating Testing..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Louisrivera5/Louisrivera5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Louisrivera5, a QA professional passionate about **AI automation and testing.**
+- 👀 I’m deeply interested in leveraging **automation** to improve efficiencies, particularly in **Call Center** and **Human Resource applications.**
+- 🌱 Currently diving deeper into **Automated Testing** to expand my skills and stay at the forefront of innovation.
+- 💼 Open to collaborating on **automation testing projects** that push boundaries and deliver flawless user experiences.
+- 📫 Feel free to reach out to me at **[your email]** for project inquiries or networking.
+- ⚡ Fun fact: When I’m not testing or building scripts, I’m either enjoying **anime, gaming**, or spending time with my **dogs**!
